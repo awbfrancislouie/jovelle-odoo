@@ -1,1 +1,1 @@
-# jovelle-odoo
+# uhhtestinstance
