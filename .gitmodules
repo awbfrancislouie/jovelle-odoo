@@ -1,0 +1,6 @@
+[submodule "uhh_attendance"]
+	path = uhh_attendance
+	url = git@git.awbni.com:odoo-development/uhh/uhh_attendance.git
+[submodule "uhh_hris"]
+	path = uhh_hris
+	url = git@git.awbni.com:odoo-development/uhh/uhh_hris.git
